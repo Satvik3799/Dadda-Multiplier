@@ -1,0 +1,13 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee. numeric_std.all;
+
+entity MAC_32 is
+
+end entity;
+
+architecture a1 of MAC_32 is
+
+begin
+
+end architecture;

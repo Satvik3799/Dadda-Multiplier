@@ -1,0 +1,25 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/MAC_32.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/abcgate.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/andgate.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/cin_map_G.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/xorgate.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/full_adder_sum.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/full_adder.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/half_adder.vhdl}
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/brent_kung_adder_32.vhdl}
+
+vcom -93 -work work {D:/IIT_BOMBAY/intel_FPGA_lite/18.1/EE_671_Ass/Assignment_4/testbench_org.vhdl}
+
+vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs="+acc"  Testbench
+
+add wave *
+view structure
+view signals
+run -all

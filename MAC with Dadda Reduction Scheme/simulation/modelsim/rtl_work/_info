@@ -1,0 +1,404 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/simulation/modelsim
+Eabcgate
+Z1 w1698849978
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/simple gates with trivial architectures.vhd
+Z5 FE:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/simple gates with trivial architectures.vhd
+l0
+L27
+VikYjGMKP3cbA=jD27EbNU3
+!s100 j5U_9aD3Lfz9;ZHE90Lgg3
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1699550072
+!i10b 1
+Z8 !s108 1699550072.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/simple gates with trivial architectures.vhd|
+Z10 !s107 E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/simple gates with trivial architectures.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Atrivial
+R2
+R3
+DEx4 work 7 abcgate 0 22 ikYjGMKP3cbA=jD27EbNU3
+l32
+L31
+VBZz^4c^c0S[]o?cBW[]<P2
+!s100 O`fP[?`Ede?8i=G<zfR>g0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eandgate
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L5
+VVkCK^3FW1gdR6z3E;C78_2
+!s100 `GbcR<7bki_D:G;0Na0hP3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Atrivial
+R2
+R3
+DEx4 work 7 andgate 0 22 VkCK^3FW1gdR6z3E;C78_2
+l10
+L9
+Vf8>V@0Z^_4>;4:zk]=[6S2
+!s100 kj]eZ4N6Q2LkXAE4MD6[d0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebrent_kung
+Z13 w1698942663
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z15 8E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/brent_kung_adder_32.vhdl
+Z16 FE:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/brent_kung_adder_32.vhdl
+l0
+L7
+V<UQYPE`5PB;id14nIK3=m3
+!s100 LecZS;4KILd^EbzAYY;=O3
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/brent_kung_adder_32.vhdl|
+Z18 !s107 E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/brent_kung_adder_32.vhdl|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 10 brent_kung 0 22 <UQYPE`5PB;id14nIK3=m3
+l46
+L14
+VG_8WRh4ZRf1oLjmXD[6>P0
+!s100 _V4K@M6;9LzI28aJRD6dA2
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Ecin_map_g
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L41
+VUnWGz_ABYBIi1X4`_HbRJ2
+!s100 0zBN3QUd493CYbSd[?0040
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Atrivial
+R2
+R3
+DEx4 work 9 cin_map_g 0 22 UnWGz_ABYBIi1X4`_HbRJ2
+l46
+L45
+Vh9DC`nK=oQQ7mV^G7lMcX3
+!s100 k?V3mP]lJ_jedKQNHoJXL0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edut
+Z19 w1698942474
+R2
+R3
+R0
+Z20 8E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/DUT.vhdl
+Z21 FE:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/DUT.vhdl
+l0
+L4
+V`hJHW1I2;EKJIdjAF0Xie3
+!s100 Q[zPLeihWnK7H69NVPU?>2
+R6
+31
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-93|-work|work|E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/DUT.vhdl|
+Z23 !s107 E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/DUT.vhdl|
+!i113 1
+R11
+R12
+Adutwrap
+R2
+R3
+DEx4 work 3 dut 0 22 `hJHW1I2;EKJIdjAF0Xie3
+l16
+L9
+Vi`fVK:?lN6;TWgYO_?gNl3
+!s100 fOVfU@7IZCHa2RX`l4CkD1
+R6
+31
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Efa
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L55
+Vh0SQX1AVP4UU6Vo?Z[3241
+!s100 NcP5MDjVYWK030lEVGkT63
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Atrivial
+R2
+R3
+DEx4 work 2 fa 0 22 h0SQX1AVP4UU6Vo?Z[3241
+l75
+L60
+VWfO03kTL0E6S<gK8V[C>N3
+!s100 5`]6g2@j7KWFjXK`mS:h40
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eha
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L88
+V`<mL3gzUK79[jlX1iZ0;<0
+!s100 <a9^aB7YNgcZD_M=8efkf2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Atrivial
+R2
+R3
+DEx4 work 2 ha 0 22 `<mL3gzUK79[jlX1iZ0;<0
+l106
+L93
+VgmbMf>Bz=hC4e`62baS@40
+!s100 27[4;ei<]U:5?bD9U1Mc<2
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Emac_32
+Z24 w1698942439
+R14
+R2
+R3
+R0
+Z25 8E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/MAC_32.vhdl
+Z26 FE:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/MAC_32.vhdl
+l0
+L5
+Vi8n;UBK89bFmI@7OZ@K3Y0
+!s100 GIlXi?4bd0UTi_HokENAa3
+R6
+31
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-93|-work|work|E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/MAC_32.vhdl|
+Z28 !s107 E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/MAC_32.vhdl|
+!i113 1
+R11
+R12
+Aa1
+R14
+R2
+R3
+DEx4 work 6 mac_32 0 22 i8n;UBK89bFmI@7OZ@K3Y0
+l112
+L11
+Vd5CdDLH16UBfgQWF15Tlf0
+!s100 mfRVoFLSKN?G0DG0MAc3=0
+R6
+31
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Etestbench
+Z29 w1698842234
+R3
+R2
+R0
+Z30 8E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/testbench_org.vhdl
+Z31 FE:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/testbench_org.vhdl
+l0
+L7
+V]iKK_Z9L:G9B:i8c]3eFH0
+!s100 bWf8kl8zb90X@P1m>V^K20
+R6
+31
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-93|-work|work|E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/testbench_org.vhdl|
+Z33 !s107 E:/M.tech/IITB/Sem_1/EE 671 VLSI Design/Assignments/Assignment 4/Assignment-4/MAC with Dadda Reduction Scheme/testbench_org.vhdl|
+!i113 1
+R11
+R12
+Abehave
+R3
+R2
+DEx4 work 9 testbench 0 22 ]iKK_Z9L:G9B:i8c]3eFH0
+l61
+L9
+V=9B;adZ=3B^e[zT]d74Q02
+!s100 DVL1J]X@;3=U9d5DmYhA?2
+R6
+31
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Exorgate
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L16
+V<zefInWlYILbG=fb8ZG>70
+!s100 2fOklamDh5X:il>>7O^0Q3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Atrivial
+R2
+R3
+DEx4 work 7 xorgate 0 22 <zefInWlYILbG=fb8ZG>70
+l21
+L20
+VRlf7<QaEdl=laW4JYnofY3
+!s100 >b8S5d6J^fH5H[CfiC4P73
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
